@@ -22,5 +22,11 @@ Bem-vindo(a) ao perfil do Henzzio Rafael 😁
   <a href="https://www.whatsapp.com/henzzio-rafael"  target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 <div>
- <h1 class="titulo">Sobre mim</h1>
+ <h1 class="titulo">Sobre mim:</h1>
+<p class="texto>
+ Meu nome é Henzzio Rafael dos Santos Capoci, tenho 16 anos e sou estudante do 2⁰ ano do Ensino médio. Moro em São Francisco do Guaporé, Rondônia e atualmente estou estudando Programação e Inglês de forma passiva, como um autodidata.
+Gosto de estudar estes dois conteúdos pois pretendo usá-los no mercado de trabalho.
+Estou estudando para programar Web's, como um Frontend, porém, irei estudar algumas linguagens de backend quando eu sentir que estou pronto para ser um desenvolvedor full stack.
+Tenho um desempenho melhor trabalhando sozinho do que em equipe, pois sinto menos responsabilidade quando só eu tenho que me dedicar em algo.
+ </p>
 </div>
