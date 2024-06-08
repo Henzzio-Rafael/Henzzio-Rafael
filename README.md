@@ -14,7 +14,7 @@ Bem-vindo(a) ao perfil do Henzzio Rafael 😁
  
 <br>
  
-### Pra entrar em contato comigo, me siga na rede abaixo!
+### Para entrar em contato comigo, me siga na rede abaixo!
  
 <div> 
   <a href="https://instagram.com/henzziorafa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
